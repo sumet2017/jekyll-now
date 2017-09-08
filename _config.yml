@@ -18,8 +18,8 @@ avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/18011077_12797200121246
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:sumet.ycs57@ubru.ac.th
-  facebook:sumet yensamur
+  email:
+  facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
